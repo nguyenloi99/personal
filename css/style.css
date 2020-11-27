@@ -8353,7 +8353,9 @@ footer p {
 }
 
 .hero .hero-logo img {
-    height: auto;
+    max-height: 300px;
+    max-width: 300px;
+    border-radius: 100%;
     margin-bottom: 1em
 }
 
@@ -10147,8 +10149,8 @@ footer p {
     }
 /*    new*/
     .hero-logo img{
-        height: 300px;
-        width: 300px;
+        max-height: 300px;
+        max-width: 300px;
         border-radius: 100%
     }
 }
