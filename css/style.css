@@ -10145,4 +10145,10 @@ footer p {
         display: -ms-flexbox;
         display: flex
     }
+/*    new*/
+    .hero-logo img{
+        height: 300px;
+        width: 300px;
+        border-radius: 100%
+    }
 }
